@@ -1,0 +1,787 @@
+1,,,,,,,,,,,,,,,,,
+3390001,,,,,,,,,,,,,,,,,
+03390002,Santa Rosa Geothermal Co.                                                                           ,McKinley        ,2     ,ABDN,DST,SRGC ,1969,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390003,"Geysers Power Company, LLC",McKinley        ,3     ,ACTV,DST,CALP ,1969,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390004,"Geysers Power Company, LLC",McKinley        ,4     ,ABDN,DST,CALP ,1969,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+03390005,"Geysers Power Company, LLC",Thorne          ,1     ,ACTV,DST,CALP ,1970,Lake                ,033,GEYSR,P,,,27,11N,8W,MD
+03390009,Santa Rosa Geothermal Co.                                                                           ,Bianchi         ,1     ,ABDN,DST,SRGC ,1973,Lake                ,033,GEYSR,P,,,23,11N,8W,MD
+03390014,Santa Rosa Geothermal Co.                                                                           ,McKinley        ,5     ,ABDN,INJ,SRGC ,1977,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390015,"Geysers Power Company, LLC",MLM             ,1     ,ACTV,DST,CALP ,1971,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390016,Santa Rosa Geothermal Co.                                                                           ,McKinley        ,6     ,ABDN,DST,SRGC ,1974,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390017,"Geysers Power Company, LLC",D & V           ,A-1   ,ACTV,DST,CALP ,1973,Lake                ,033,GEYSR,P,,,27,11N,8W,MD
+03390018,"Geysers Power Company, LLC",Abel            ,1     ,ACTV,DST,CALP ,1974,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390019,"Geysers Power Company, LLC",NE Geysers Unit ,1     ,ACTV,DST,CALP ,1976,Lake                ,033,GEYSR,P,,,9,11N,8W,MD
+03390020,Union Oil Company of California Geothermal Division                                                 ,Horner St 4596  ,1     ,ABDN,DST,UNION,1975,Lake                ,033,GEYSR,S,,,6,11N,8W,MD
+03390021,"Geysers Power Company, LLC",Thorne          ,3     ,ACTV,DST,CALP ,1974,Lake                ,033,GEYSR,P,,,27,11N,8W,MD
+03390022,Santa Rosa Geothermal Co.                                                                           ,McKinley        ,8     ,ABDN,DST,SRGC ,1974,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390023,"Geysers Power Company, LLC",Davies Estate   ,1     ,IDLE,DST,CALP ,1975,Lake                ,033,GEYSR,P,,,36,11N,8W,MD
+3390024,,,,,,,,,,,,,,,,,
+03390025,"Geysers Power Company, LLC",Thorne          ,6     ,ACTV,DST,CALP ,1975,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390027,"Geysers Power Company, LLC",Barrows         ,1     ,ABDN,INJ,CALP ,1975,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+03390030,"Geysers Power Company, LLC",Davies Estate   ,2     ,ABDN,DST,CALP ,1976,Lake                ,033,GEYSR,P,,,31,11N,7W,MD
+03390033,"BOTTLE ROCK POWER, LLC",Francisco       ,1-5   ,SUSP,DST,BRPL ,1976,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390034,"Geysers Power Company, LLC",CA-958          ,76-35 ,ACTV,DST,CALP ,1975,Lake                ,033,GEYSR,F,,,35,11N,8W,MD
+03390036,"Geysers Power Company, LLC",Davies Estate   ,3     ,IDLE,DST,CALP ,1976,Lake                ,033,GEYSR,P,,,31,11N,7W,MD
+03390048,"Geysers Power Company, LLC",PDC             ,1     ,ACTV,DST,CALP ,1983,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390049,"BOTTLE ROCK POWER, LLC",Francisco       ,2-5   ,IDLE,INJ,BRPL ,1977,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390058,Santa Rosa Geothermal Co.                                                                           ,Bianchi         ,2     ,ABDN,DST,SRGC ,1977,Lake                ,033,GEYSR,P,,,23,11N,8W,MD
+03390059,"Geysers Power Company, LLC",MLM             ,2     ,ACTV,DST,CALP ,1977,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390060,Northern California Power Agency                                                                    ,CA-949          ,17A-1 ,ACTV,DST,NCPA ,1975,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+3390063,,,,,,,,,,,,,,,,,
+3390084,,,,,,,,,,,,,,,,,
+03390098,"Geysers Power Company, LLC",D & V           ,A-2   ,ACTV,DST,CALP ,1977,Lake                ,033,GEYSR,P,,,34,11N,8W,MD
+03390099,Calpine Geysers Co.                                                                                 ,Sullivan & Lodge,1     ,ABDN,DST,CGC  ,1977,Lake                ,033,GEYSR,P,,,23,11N,8W,MD
+03390100,Northern California Power Agency                                                                    ,CA-949          ,17-1  ,ACTV,DST,NCPA ,1975,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390101,Northern California Power Agency                                                                    ,CA-949          ,38-1  ,ABDN,DST,NCPA ,1977,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390163,Northern California Power Agency                                                                    ,CA-949          ,38A-1 ,ABDN,DST,NCPA ,1978,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390171,"Geysers Power Company, LLC",Binkley Rch Unit,1     ,ACTV,DST,CALP ,1979,Lake                ,033,GEYSR,P,,,36,12N,9W,MD
+03390186,Union Oil Company of California Geothermal Division                                                 ,NE Geysers Unit ,2     ,ABDN,DST,UNION,1979,Lake                ,033,GEYSR,P,,,9,11N,8W,MD
+03390188,Calpine Geysers Co.                                                                                 ,Thorne          ,7     ,ABDN,INJ,CGC  ,1978,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390194,"Geysers Power Company, LLC",Davies St 5206  ,1     ,ACTV,DST,CALP ,1979,Lake                ,033,GEYSR,S,,,36,11N,8W,MD
+03390201,MCR Geothermal Corp.,Coleman         ,1-5   ,ABDN,DST,MCR  ,1979,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390233,"Geysers Power Company, LLC",D & V           ,A-3   ,ACTV,DST,CALP ,1979,Lake                ,033,GEYSR,P,,,27,11N,8W,MD
+03390234,"Geysers Power Company, LLC",CA-1862         ,57-27 ,ACTV,DST,CALP ,1979,Lake                ,033,GEYSR,F,,,27,11N,8W,MD
+03390249,"Geysers Power Company, LLC",Barrows         ,3     ,ACTV,DST,CALP ,1979,Lake                ,033,GEYSR,P,,,36,11N,8W,MD
+03390251,"Geysers Power Company, LLC",CA-956A         ,86-34 ,ACTV,DST,CALP ,1980,Lake                ,033,GEYSR,F,,,34,11N,8W,MD
+03390273,"BOTTLE ROCK POWER, LLC",Francisco       ,3-5   ,IDLE,INJ,BRPL ,1980,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+3390274,,,,,,,,,,,,,,,,,
+03390277,Union Oil Company of California Geothermal Division                                                 ,NE Geysers Unit ,7     ,ABDN,EST,UNION,1981,Lake                ,033,GEYSR,P,,,4,11N,8W,MD
+03390278,"Geysers Power Company, LLC",NE Geysers Unit ,8     ,ACTV,DST,CALP ,1981,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390284,"Geysers Power Company, LLC",CA-5637         ,68-21 ,ACTV,DST,CALP ,1980,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+3390285,,,,,,,,,,,,,,,,,
+03390286,Northern California Power Agency                                                                    ,CA-949          ,53A-2 ,IDLE,DST,NCPA ,1984,Lake                ,033,GEYSR,F,,,2,10N,8W,MD
+03390290,"Geysers Power Company, LLC",CA-5636         ,68A-21,ACTV,DST,CALP ,1980,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390291,"Geysers Power Company, LLC",Moody Unit      ,1     ,ACTV,DST,CALP ,1980,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390302,"Geysers Power Company, LLC",CA-958          ,43-35 ,ACTV,DST,CALP ,1980,Lake                ,033,GEYSR,F,,,35,11N,8W,MD
+03390305,Northern California Power Agency                                                                    ,CA-949          ,72-1  ,ACTV,DST,NCPA ,1980,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390339,"Geysers Power Company, LLC",CA-958          ,86A-34,ACTV,DST,CALP ,1980,Lake                ,033,GEYSR,F,,,34,11N,8W,MD
+3390344,,,,,,,,,,,,,,,,,
+03390383,"Geysers Power Company, LLC",CA-5636         ,74-21 ,IDLE,INJ,CALP ,1981,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390391,"Geysers Power Company, LLC",CA-5636         ,23-22 ,IDLE,INJ,CALP ,1982,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390392,"Geysers Power Company, LLC",Barrows         ,2     ,ACTV,DST,CALP ,1981,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+03390421,"Geysers Power Company, LLC",NE Geysers Unit ,7A    ,ACTV,DST,CALP ,1981,Lake                ,033,GEYSR,P,,,4,11N,8W,MD
+03390422,"Geysers Power Company, LLC",MLM             ,5     ,IDLE,DST,CALP ,1981,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390423,"Geysers Power Company, LLC",McKinley        ,9     ,ACTV,DST,CALP ,1982,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390424,Union Oil Company of California Geothermal Division                                                 ,High Valley St  ,39-30 ,ABDN,DST,UNION,1984,Lake                ,033,GEYSR,S,,,30,12N,8W,MD
+03390425,"BOTTLE ROCK POWER, LLC",Coleman         ,1-6   ,SUSP,DST,BRPL ,1982,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+03390426,Union Oil Company of California Geothermal Division                                                 ,High Valley St  ,99-25 ,ABDN,DST,UNION,1982,Lake                ,033,GEYSR,S,,,25,12N,9W,MD
+03390427,"Geysers Power Company, LLC",CA-5636         ,74A-21,ABDN,INJ,CALP ,1982,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390428,"Geysers Power Company, LLC",Tocher          ,2     ,ACTV,DST,CALP ,1982,Lake                ,033,GEYSR,P,,,27,11N,8W,MD
+03390429,"BOTTLE ROCK POWER, LLC",Coleman         ,2-6   ,ACTV,DST,BRPL ,1982,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+3390430,,,,,,,,,,,,,,,,,
+03390435,"Geysers Power Company, LLC",CA-5636         ,23A-22,IDLE,DST,CALP ,1982,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390436,"BOTTLE ROCK POWER, LLC",Coleman         ,2-5   ,ABDN,DST,BRPL ,1982,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390437,"BOTTLE ROCK POWER, LLC",Coleman         ,3-6   ,SUSP,DST,BRPL ,1982,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+3390439,,,,,,,,,,,,,,,,,
+03390440,Union Oil Company of California Geothermal Division                                                 ,Kelsey Creek St ,97-11 ,ABDN,DST,UNION,1982,Lake                ,033,GEYSR,S,,,11,12N,9W,MD
+3390441,,,,,,,,,,,,,,,,,
+03390442,"BOTTLE ROCK POWER, LLC",Coleman         ,3-5   ,ACTV,DST,BRPL ,1983,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390443,"BOTTLE ROCK POWER, LLC",Coleman         ,4-6   ,ACTV,DST,BRPL ,1983,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+03390444,"Geysers Power Company, LLC",Bianchi         ,3     ,IDLE,DST,CALP ,1983,Lake                ,033,GEYSR,P,,,27,11N,8W,MD
+03390446,"Geysers Power Company, LLC",CA-5636         ,87A-21,ACTV,DST,CALP ,1983,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390447,"BOTTLE ROCK POWER, LLC",Coleman         ,4-5   ,ABDN,DST,BRPL ,1983,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390448,"Geysers Power Company, LLC",DX State 4596   ,52    ,IDLE,INJ,CALP ,1983,Lake                ,033,GEYSR,S,,,8,11N,8W,MD
+03390449,"Geysers Power Company, LLC",Sprouse         ,A-1   ,ABDN,DST,CALP ,1983,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390451,Union Oil Company of California Geothermal Division                                                 ,High Valley St  ,94-25 ,ABDN,DST,UNION,1983,Lake                ,033,GEYSR,S,,,25,12N,9W,MD
+03390459,"Geysers Power Company, LLC",CA-5636         ,68B-21,ACTV,DST,CALP ,1983,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390460,Union Oil Company of California Geothermal Division                                                 ,High Valley St  ,39A-30,ABDN,DST,UNION,1983,Lake                ,033,GEYSR,S,,,30,12N,8W,MD
+03390461,"Geysers Power Company, LLC",CA-5636         ,68C-21,ACTV,DST,CALP ,1983,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390462,"BOTTLE ROCK POWER, LLC",Coleman         ,5-6   ,ACTV,DST,BRPL ,1983,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+3390463,,,,,,,,,,,,,,,,,
+03390464,"Geysers Power Company, LLC",CA-5636         ,87B-21,ACTV,DST,CALP ,1983,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390465,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,53    ,ABDN,DST,UNION,1983,Lake                ,033,GEYSR,S,,,8,11N,8W,MD
+03390466,"Geysers Power Company, LLC",CA-5636         ,87C-21,ACTV,DST,CALP ,1983,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390469,"Geysers Power Company, LLC",CA-958          ,43A-35,ACTV,DST,CALP ,1983,Lake                ,033,GEYSR,F,,,35,11N,8W,MD
+03390474,"Geysers Power Company, LLC",CA-5636         ,74B-21,ACTV,DST,CALP ,1983,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390476,"Geysers Power Company, LLC",MLM             ,4     ,ACTV,DST,CALP ,1984,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+1,,,,,,,,,,,,,,,,,
+03390478,"Geysers Power Company, LLC",CA-5636         ,74C-21,ACTV,DST,CALP ,1983,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390479,,,,,,,,,,,,,,,,,
+03390480,"Geysers Power Company, LLC",CA-958          ,43B-35,ACTV,DST,CALP ,1984,Lake                ,033,GEYSR,F,,,35,11N,8W,MD
+03390484,"Geysers Power Company, LLC",California St   ,92-6  ,ACTV,DST,CALP ,2008,Lake                ,033,GEYSR,S,,,6,11N,8W,MD
+03390485,"Geysers Power Company, LLC",CA-956A         ,35-35 ,ACTV,DST,CALP ,1984,Lake                ,033,GEYSR,F,,,35,11N,8W,MD
+03390486,Northern California Power Agency                                                                    ,CA-949          ,53B-2 ,ACTV,DST,NCPA ,1984,Lake                ,033,GEYSR,F,,,2,10N,8W,MD
+03390487,Northern California Power Agency                                                                    ,CA-949          ,53C-2 ,ACTV,DST,NCPA ,1984,Lake                ,033,GEYSR,F,,,2,10N,8W,MD
+03390488,"Geysers Power Company, LLC",CA-958          ,35A-35,ACTV,DST,CALP ,1984,Lake                ,033,GEYSR,F,,,35,11N,8W,MD
+03390492,"Geysers Power Company, LLC",Barrows         ,5     ,ACTV,DST,CALP ,1984,Lake                ,033,GEYSR,P,,,36,11N,8W,MD
+03390494,Union Oil Company of California Geothermal Division                                                 ,Binkley State   ,1     ,ABDN,DST,UNION,1984,Lake                ,033,GEYSR,S,,,25,12N,9W,MD
+03390495,"Geysers Power Company, LLC",Barrows         ,4     ,IDLE,INJ,CALP ,1984,Lake                ,033,GEYSR,P,,,36,11N,8W,MD
+03390496,"BOTTLE ROCK POWER, LLC",Coleman         ,5-5   ,IDLE,DST,BRPL ,1984,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390497,"Geysers Power Company, LLC",McKinley        ,10    ,ACTV,DST,CALP ,1984,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+03390498,Union Oil Company of California Geothermal Division                                                 ,L'Esperance     ,2     ,ABDN,DST,UNION,1985,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+03390500,"Geysers Power Company, LLC",McKinley        ,11    ,ACTV,DST,CALP ,1985,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+03390501,"BOTTLE ROCK POWER, LLC",Coleman         ,1A-5  ,IDLE,DST,BRPL ,1985,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390502,"BOTTLE ROCK POWER, LLC",Coleman         ,6-6   ,CANC,DST,BRPL ,,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+03390503,"Geysers Power Company, LLC",McKinley        ,12    ,ACTV,DST,CALP ,1985,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+03390506,,,,,,,,,,,,,,,,,
+03390507,"Geysers Power Company, LLC",CA-5636         ,87D-21,ACTV,DST,CALP ,1985,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390508,Northern California Power Agency                                                                    ,CA-949          ,22A-1 ,ACTV,DST,NCPA ,1985,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390509,"Geysers Power Company, LLC",D & V           ,A-4   ,ACTV,DST,CALP ,1986,Lake                ,033,GEYSR,P,,,34,11N,8W,MD
+03390510,"Geysers Power Company, LLC",CA-5636         ,68D-21,ACTV,DST,CALP ,1985,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390511,Northern California Power Agency                                                                    ,CA-949          ,38B-1 ,ACTV,DST,NCPA ,1985,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390512,"BOTTLE ROCK POWER, LLC",Francisco       ,4-5   ,IDLE,INJ,BRPL ,1985,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390513,,,,,,,,,,,,,,,,,
+03390518,"Geysers Power Company, LLC",NE Geysers Unit ,15    ,IDLE,DST,CALP ,1986,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390519,"Geysers Power Company, LLC",GD Horner State ,9     ,ACTV,DST,CALP ,1986,Lake                ,033,GEYSR,S,,,5,11N,8W,MD
+03390520,"BOTTLE ROCK POWER, LLC",Francisco       ,5-5   ,IDLE,DST,BRPL ,1986,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390521,"Geysers Power Company, LLC",NE Geysers Unit ,17    ,ACTV,DST,CALP ,1990,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390522,Northern California Power Agency                                                                    ,CA-949          ,17B-1 ,ACTV,DST,NCPA ,1986,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390523,Northern California Power Agency                                                                    ,CA-949          ,38C-1 ,ACTV,DST,NCPA ,1986,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390524,Northern California Power Agency                                                                    ,CA-949          ,38D-1 ,ACTV,DST,NCPA ,1986,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390525,Northern California Power Agency                                                                    ,CA-949          ,17C-1 ,ACTV,DST,NCPA ,1986,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390526,,,,,,,,,,,,,,,,,
+03390527,Northern California Power Agency                                                                    ,CA-949          ,38E-1 ,ACTV,DST,NCPA ,1986,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390528,"Geysers Power Company, LLC",Barrows         ,6     ,ACTV,DST,CALP ,1986,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+03390529,Northern California Power Agency                                                                    ,CA-949          ,38F-1 ,ACTV,DST,NCPA ,1986,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390530,Northern California Power Agency                                                                    ,CA-949          ,17E-1 ,CANC,DST,NCPA ,,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390545,"Geysers Power Company, LLC",DX State 4596   ,87    ,ACTV,DST,CALP ,1986,Lake                ,033,GEYSR,S,,,8,11N,8W,MD
+03390546,Northern California Power Agency                                                                    ,CA-949          ,53D-2 ,ACTV,DST,NCPA ,1986,Lake                ,033,GEYSR,F,,,2,10N,8W,MD
+03390547,Northern California Power Agency                                                                    ,CA-949          ,38G-1 ,ACTV,DST,NCPA ,1986,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390549,Northern California Power Agency                                                                    ,CA-949          ,53E-2 ,ACTV,DST,NCPA ,1987,Lake                ,033,GEYSR,F,,,2,10N,8W,MD
+03390552,,,,,,,,,,,,,,,,,
+03390555,Northern California Power Agency                                                                    ,CA-949          ,53G-2 ,ACTV,DST,NCPA ,1987,Lake                ,033,GEYSR,F,,,2,10N,8W,MD
+03390558,"Geysers Power Company, LLC",Davies St 5206  ,2     ,ACTV,DST,CALP ,1987,Lake                ,033,GEYSR,S,,,36,11N,8W,MD
+03390560,Northern California Power Agency                                                                    ,CA-949          ,53H-2 ,ACTV,DST,NCPA ,1987,Lake                ,033,GEYSR,F,,,2,10N,8W,MD
+03390561,,,,,,,,,,,,,,,,,
+03390562,"Geysers Power Company, LLC",CA-958          ,35B-35,ACTV,DST,CALP ,1987,Lake                ,033,GEYSR,F,,,35,11N,8W,MD
+03390613,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-4  ,ABDN,TG ,UNION,1972,Lake                ,033,GEYSR,P,,,9,11N,8W,MD
+03390614,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-5  ,ABDN,TG ,UNION,1972,Lake                ,033,GEYSR,P,,,36,12N,9W,MD
+03390615,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-6  ,ABDN,TG ,UNION,1972,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+03390616,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-7  ,ABDN,TG ,UNION,1972,Lake                ,033,GEYSR,P,,,30,12N,8W,MD
+03390635,"Geysers Power Company, LLC",CA-5636         ,74D-21,ACTV,DST,CALP ,1987,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390675,Santa Rosa Geothermal Co.                                                                           ,CRS             ,3A    ,ABDN,TG ,SRGC ,1973,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390676,Santa Rosa Geothermal Co.                                                                           ,CRS             ,4     ,ABDN,TG ,SRGC ,1973,Lake                ,033,GEYSR,P,,,27,11N,8W,MD
+03390677,Northern California Power Agency                                                                    ,CA-949          ,22C-1 ,ACTV,DST,NCPA ,1987,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390678,"Geysers Power Company, LLC",Davies Estate   ,5     ,IDLE,DST,CALP ,1987,Lake                ,033,GEYSR,P,,,36,11N,8W,MD
+03390679,"Geysers Power Company, LLC",McKinley        ,13    ,ACTV,DST,CALP ,1987,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+03390680,"Geysers Power Company, LLC",GD Horner State ,7     ,ACTV,DST,CALP ,1987,Lake                ,033,GEYSR,S,,,5,11N,8W,MD
+03390684,"Geysers Power Company, LLC",Davies Estate   ,6     ,ACTV,DST,CALP ,1987,Lake                ,033,GEYSR,P,,,36,11N,8W,MD
+03390685,"Geysers Power Company, LLC",Thorne          ,10    ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390686,"Geysers Power Company, LLC",GD Horner State ,8     ,ACTV,DST,CALP ,1987,Lake                ,033,GEYSR,S,,,5,11N,8W,MD
+03390687,Northern California Power Agency                                                                    ,CA-949          ,22D-1 ,ACTV,DST,NCPA ,1987,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390688,"Geysers Power Company, LLC",Davies Estate   ,7     ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,36,11N,8W,MD
+03390689,"Geysers Power Company, LLC",MLM             ,7     ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390690,Northern California Power Agency                                                                    ,CA-949          ,22E-1 ,ACTV,DST,NCPA ,1988,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390691,"Geysers Power Company, LLC",McKinley        ,15    ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,35,11N,8W,MD
+03390692,"Geysers Power Company, LLC",G               ,28    ,ABDN,TG ,CALP ,1988,Lake                ,033,GEYSR,P,,,27,11N,8W,MD
+03390693,"Geysers Power Company, LLC",G               ,30    ,ABDN,TG ,CALP ,1988,Lake                ,033,GEYSR,P,,,8,11N,8W,MD
+03390694,Northern California Power Agency                                                                    ,CA-949          ,22F-1 ,ACTV,DST,NCPA ,1988,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390695,"Geysers Power Company, LLC",PDC             ,2     ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390696,"Geysers Power Company, LLC",Moody Unit      ,2     ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390697,"Geysers Power Company, LLC",PDC             ,3     ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390698,"Geysers Power Company, LLC",Moody Unit      ,3     ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390699,"Geysers Power Company, LLC",CA-5636         ,36-22 ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390700,"Geysers Power Company, LLC",CA-5636         ,36A-22,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390701,Northern California Power Agency                                                                    ,CA-949          ,22G-1 ,ACTV,DST,NCPA ,1989,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390702,"Geysers Power Company, LLC",Tocher          ,4     ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,27,11N,8W,MD
+03390703,Northern California Power Agency                                                                    ,CA-949          ,38H-1 ,ACTV,DST,NCPA ,1988,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390706,"Geysers Power Company, LLC",Moody Unit      ,4     ,ACTV,DST,CALP ,1988,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390708,"Geysers Power Company, LLC",Davies Estate   ,8     ,ACTV,DST,CALP ,1989,Lake                ,033,GEYSR,P,,,36,11N,8W,MD
+03390710,"Geysers Power Company, LLC",CA-5636         ,36B-22,ACTV,DST,CALP ,1989,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390711,"Geysers Power Company, LLC",CA-5636         ,68E-21,ACTV,DST,CALP ,1989,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390719,Northern California Power Agency                                                                    ,CA-949          ,22H-1 ,ACTV,DST,NCPA ,1989,Lake                ,033,GEYSR,F,,,1,10N,8W,MD
+03390720,"Geysers Power Company, LLC",CA-5636         ,87E-21,ACTV,DST,CALP ,1990,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390721,"Geysers Power Company, LLC",CA-5636         ,87F-21,ACTV,DST,CALP ,1990,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390722,,,,,,,,,,,,,,,,,
+03390723,"Geysers Power Company, LLC",CA-5636         ,23E-22,ACTV,DST,CALP ,1991,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390724,"Geysers Power Company, LLC",GD Horner State ,6     ,ACTV,DST,CALP ,1987,Lake                ,033,GEYSR,S,,,5,11N,8W,MD
+03390725,"Geysers Power Company, LLC",CA-5636         ,68F-21,ACTV,DST,CALP ,1990,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390726,"Geysers Power Company, LLC",Davies Estate   ,9     ,ACTV,DST,CALP ,1991,Lake                ,033,GEYSR,P,,,36,11N,8W,MD
+03390727,"Geysers Power Company, LLC",Wolfe           ,1     ,ACTV,DST,CALP ,1991,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390728,"Geysers Power Company, LLC",CA-5636         ,36C-22,ACTV,DST,CALP ,1991,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390729,"Geysers Power Company, LLC",CA-5636         ,68G-21,ACTV,DST,CALP ,1991,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390730,,,,,,,,,,,,,,,,,
+03390731,"Geysers Power Company, LLC",CA-958          ,76A-35,ACTV,DST,CALP ,1992,Lake                ,033,GEYSR,F,,,35,11N,8W,MD
+03390732,"Geysers Power Company, LLC",CA-5636         ,23F-22,ACTV,DST,CALP ,1992,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390733,,,,,,,,,,,,,,,,,
+03390734,"Geysers Power Company, LLC",Davies St 5206  ,4     ,ACTV,DST,CALP ,1992,Lake                ,033,GEYSR,S,,,36,11N,8W,MD
+03390735,"Geysers Power Company, LLC",CA-5636         ,74F-21,ACTV,DST,CALP ,1993,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390736,"Geysers Power Company, LLC",East Ford Flat  ,1     ,ACTV,DST,CALP ,1993,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390737,"Geysers Power Company, LLC",CA-5636         ,74G-21,ACTV,DST,CALP ,1993,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390738,"Geysers Power Company, LLC",CA-5636         ,74H-21,ACTV,DST,CALP ,1994,Lake                ,033,GEYSR,F,,,21,11N,8W,MD
+03390739,"Geysers Power Company, LLC",CA-5636         ,23G-22,ACTV,DST,CALP ,1995,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390740,"Geysers Power Company, LLC",CA-5636         ,23H-22,ACTV,DST,CALP ,1995,Lake                ,033,GEYSR,F,,,22,11N,8W,MD
+03390741,"Geysers Power Company, LLC",Davies St 5206  ,5     ,ACTV,DST,CALP ,1996,Lake                ,033,GEYSR,S,,,36,11N,8W,MD
+03390742,"Geysers Power Company, LLC",Moody Unit      ,5     ,ACTV,DST,CALP ,1997,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390743,,,,,,,,,,,,,,,,,
+03390744,"Geysers Power Company, LLC",PDC             ,4     ,ACTV,DST,CALP ,1998,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390746,"Geysers Power Company, LLC",GF              ,23I-22,CANC,DST,CALP ,,Lake                ,033,GEYSR,P,,,22,11N,8W,MD
+03390747,"Geysers Power Company, LLC",NE Geysers Unit ,10    ,ACTV,DST,CALP ,2001,Lake                ,033,GEYSR,P,,,4,11N,8W,MD
+03390748,,,,,,,,,,,,,,,,,
+03390749,"BOTTLE ROCK POWER, LLC",Coleman         ,6-5   ,ACTV,DST,BRPL ,2007,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390750,"BOTTLE ROCK POWER, LLC",Coleman         ,7-6   ,ABDN,DST,BRPL ,2007,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+03390751,"BOTTLE ROCK POWER, LLC",Francisco       ,6-5   ,ACTV,DST,BRPL ,2007,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390752,"BOTTLE ROCK POWER, LLC",Coleman         ,7-5   ,ACTV,DST,BRPL ,2008,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390753,"BOTTLE ROCK POWER, LLC",Francisco       ,7-5   ,SUSP,DST,BRPL ,2007,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390754,,,,,,,,,,,,,,,,,
+03390755,"BOTTLE ROCK POWER, LLC",Francisco       ,8-5   ,CANC,DST,BRPL ,,Lake                ,033,GEYSR,P,,,5,11N,8W,MD
+03390756,"BOTTLE ROCK POWER, LLC",Coleman         ,6-6   ,ABDN,DST,BRPL ,2009,Lake                ,033,GEYSR,P,,,6,11N,8W,MD
+03390757,"Geysers Power Company, LLC",Thorne          ,11    ,IDLE,INJ,CALP ,2020,Lake                ,033,GEYSR,P,,,26,11N,8W,MD
+03390758,,,,,,,,,,,,,,,,,
+03390767,"Geysers Power Company, LLC",CA-956A         ,A-7   ,CANC,INJ,CALP ,,Lake                ,033,GEYSR,F,,,34,11N,8W,MD
+03390768,,,,,,,,,,,,,,,,,
+09790001,GEO Operator Corp.                                                                                  ,Rorabaugh       ,1     ,ABDN,DST,GEO  ,1967,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790002,GEO Operator Corp.                                                                                  ,Rorabaugh       ,2     ,ABDN,DST,GEO  ,1968,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790003,GEO Operator Corp.                                                                                  ,Rorabaugh       ,5     ,ABDN,DST,GEO  ,1969,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790004,GEO Operator Corp.                                                                                  ,Rorabaugh       ,6     ,ABDN,DST,GEO  ,1969,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790005,GEO Operator Corp.                                                                                  ,Rorabaugh       ,7     ,ABDN,DST,GEO  ,1969,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790006,"Geysers Power Company, LLC",CA-1863         ,56-18 ,ACTV,DST,CALP ,1967,Sonoma              ,097,GEYSR,F,,,18,11N,8W,MD
+09790007,"Geysers Power Company, LLC",CMHC            ,65-18 ,ACTV,DST,CALP ,1972,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790008,,,,,,,,,,,,,,,,,
+09790009,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,1     ,ABDN,DST,UNION,1969,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790010,"Geysers Power Company, LLC",DX State 4596   ,2     ,ACTV,DST,CALP ,1970,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790011,"Geysers Power Company, LLC",DX State 4596   ,3     ,ACTV,DST,CALP ,1970,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790012,"Geysers Power Company, LLC",DX State 4596   ,5     ,IDLE,INJ,CALP ,1971,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790013,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,7     ,ABDN,INJ,UNION,1972,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790014,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,8     ,ABDN,INJ,UNION,1972,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790015,"Geysers Power Company, LLC",DX State 4596   ,10    ,IDLE,INJ,CALP ,1972,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790016,"Geysers Power Company, LLC",D & V           ,73-33 ,ACTV,DST,CALP ,1968,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790017,,,,,,,,,,,,,,,,,
+09790018,Union Oil Company of California Geothermal Division                                                 ,GDC             ,32-13 ,ABDN,DST,UNION,1971,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790019,,,,,,,,,,,,,,,,,
+09790020,"Geysers Power Company, LLC",GDC             ,53-13 ,IDLE,INJ,CALP ,1971,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790021,Union Oil Company of California Geothermal Division                                                 ,GDC             ,65-28 ,ABDN,DST,UNION,1968,Sonoma              ,097,GEYSR,P,,,28,11N,8W,MD
+09790022,"Geysers Power Company, LLC",GDC             ,66-12 ,ACTV,DST,CALP ,1970,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790023,"Geysers Power Company, LLC",GDC             ,77-12 ,ACTV,DST,CALP ,1970,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790024,"Geysers Power Company, LLC",GDC             ,85-12 ,ACTV,DST,CALP ,1970,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790025,"Geysers Power Company, LLC",GDC             ,86-12 ,ACTV,DST,CALP ,1970,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790026,"Geysers Power Company, LLC",GDC             ,88-12 ,IDLE,INJ,CALP ,1971,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790027,Union Oil Company of California Geothermal Division                                                 ,Geysers         ,I     ,ABDN,DST,UNION,1922,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790028,Union Oil Company of California Geothermal Division                                                 ,Geysers         ,II    ,ABDN,DST,UNION,1923,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790029,Union Oil Company of California Geothermal Division                                                 ,Geysers         ,VI    ,ABDN,DST,UNION,1925,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790030,Union Oil Company of California Geothermal Division                                                 ,Geysers         ,VIII  ,ABDN,DST,UNION,1925,Sonoma              ,097,GEYSR,P,,,13,11N,8W,MD
+09790031,Union Oil Company of California Geothermal Division                                                 ,Geyser Gun Club ,1     ,ABDN,DST,UNION,1968,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790032,"Geysers Power Company, LLC",Geyser Gun Club ,2     ,IDLE,DST,CALP ,1970,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790033,"Geysers Power Company, LLC",Happy Jack      ,1     ,ACTV,DST,CALP ,1965,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790034,Union Oil Company of California Geothermal Division                                                 ,Happy Jack      ,2     ,ABDN,DST,UNION,1966,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790035,Union Oil Company of California Geothermal Division                                                 ,Happy Jack      ,3     ,ABDN,DST,UNION,1966,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790036,"Geysers Power Company, LLC",Happy Jack      ,4     ,IDLE,DST,CALP ,1966,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790037,"Geysers Power Company, LLC",Happy Jack      ,5     ,ACTV,DST,CALP ,1966,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790038,Union Oil Company of California Geothermal Division                                                 ,Happy Jack      ,6     ,ABDN,DST,UNION,1966,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790039,Union Oil Company of California Geothermal Division                                                 ,Happy Jack      ,7A    ,ABDN,DST,UNION,1967,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790040,Union Oil Company of California Geothermal Division                                                 ,Happy Jack      ,8     ,ABDN,DST,UNION,1968,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790041,Union Oil Company of California Geothermal Division                                                 ,Happy Jack      ,9     ,ABDN,INJ,UNION,1978,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790042,Union Oil Company of California Geothermal Division                                                 ,Little Geysers  ,1     ,ABDN,DST,UNION,1964,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790043,Union Oil Company of California Geothermal Division                                                 ,Little Geysers  ,2     ,ABDN,DST,UNION,1964,Sonoma              ,097,GEYSR,P,,,28,11N,8W,MD
+09790044,"Geysers Power Company, LLC",LF State 4597   ,1     ,ACTV,DST,CALP ,1969,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790045,"Geysers Power Company, LLC",LF State 4597   ,2     ,IDLE,INJ,CALP ,1969,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790046,"Geysers Power Company, LLC",LF State 4597   ,5     ,ACTV,DST,CALP ,1975,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790047,Union Oil Company of California Geothermal Division                                                 ,LF State 4597   ,7     ,ABDN,DST,UNION,1972,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790048,"Geysers Power Company, LLC",LF State 4597   ,8     ,ACTV,DST,CALP ,1972,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790049,"Geysers Power Company, LLC",LF State 4597   ,9     ,ACTV,DST,CALP ,1972,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790050,"Geysers Power Company, LLC",Magma           ,1     ,ACTV,DST,CALP ,1955,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790051,"Geysers Power Company, LLC",Ottoboni St 4596,1     ,ACTV,DST,CALP ,1969,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790052,"Geysers Power Company, LLC",Ottoboni St 4596,2     ,ACTV,DST,CALP ,1969,Sonoma              ,097,GEYSR,S,,,12,11N,9W,MD
+09790053,"Geysers Power Company, LLC",Ottoboni St 4596,4     ,ACTV,DST,CALP ,1970,Sonoma              ,097,GEYSR,S,,,12,11N,9W,MD
+09790054,"Geysers Power Company, LLC",Ottoboni St 4596,5     ,ACTV,DST,CALP ,1971,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790055,"Geysers Power Company, LLC",Ottoboni St 4596,6     ,ACTV,DST,CALP ,1971,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790056,"Geysers Power Company, LLC",Ottoboni St 4596,7     ,ACTV,DST,CALP ,1971,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790057,"Geysers Power Company, LLC",Ottoboni St 4596,8     ,ACTV,DST,CALP ,1971,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790058,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,1     ,ABDN,INJ,UNION,1961,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790059,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,2     ,ABDN,DST,UNION,1961,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790060,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,3     ,ABDN,DST,UNION,1968,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790061,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,4     ,ABDN,DST,UNION,1963,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790062,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,5     ,ABDN,DST,UNION,1963,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790063,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,6     ,ABDN,DST,UNION,1963,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790064,"Geysers Power Company, LLC",Sulphur Bank    ,7     ,IDLE,DST,CALP ,1963,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790065,"Geysers Power Company, LLC",Sulphur Bank    ,8     ,ACTV,DST,CALP ,1963,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790066,"Geysers Power Company, LLC",Sulphur Bank    ,9     ,ACTV,DST,CALP ,1964,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790067,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,13    ,ABDN,DST,UNION,1964,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790068,"Geysers Power Company, LLC",Sulphur Bank    ,14    ,ACTV,DST,CALP ,1964,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790069,"Geysers Power Company, LLC",Sulphur Bank    ,15    ,IDLE,INJ,CALP ,1964,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790070,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,16    ,ABDN,DST,UNION,1965,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790071,"Geysers Power Company, LLC",Sulphur Bank    ,17    ,ACTV,DST,CALP ,1965,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790072,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,18    ,ABDN,DST,UNION,1964,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790073,"Geysers Power Company, LLC",Sulphur Bank    ,19    ,IDLE,DST,CALP ,1965,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790074,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,1     ,ABDN,DST,UNION,1957,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790075,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,2     ,ABDN,DST,UNION,1957,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790076,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,3     ,ABDN,DST,UNION,1957,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790077,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,5     ,ABDN,DST,UNION,1957,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790078,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,6     ,ABDN,DST,UNION,1959,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790079,"Geysers Power Company, LLC",Thermal         ,7     ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790080,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,8     ,ABDN,DST,UNION,1971,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790081,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,9     ,ABDN,DST,UNION,1959,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790082,"Geysers Power Company, LLC",Thermal         ,10    ,ACTV,DST,CALP ,1959,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790083,"Geysers Power Company, LLC",Thermal         ,11    ,ACTV,DST,CALP ,1959,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790084,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,12A   ,ABDN,DST,UNION,1964,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790085,"Geysers Power Company, LLC",Sulphur Bank    ,10    ,ACTV,DST,CALP ,1964,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790086,"Geysers Power Company, LLC",Sulphur Bank    ,11    ,ACTV,DST,CALP ,1964,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790087,Union Oil Company of California Geothermal Division                                                 ,Sulphur Bank    ,12    ,ABDN,DST,UNION,1964,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790088,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-7   ,ABDN,DST,GEO  ,1973,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790089,Union Oil Company of California Geothermal Division                                                 ,Ottoboni St 4596,10    ,ABDN,INJ,UNION,1973,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790090,Union Oil Company of California Geothermal Division                                                 ,GDC             ,58I-11,ABDN,DST,UNION,1968,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790091,Union Oil Company of California Geothermal Division                                                 ,Ottoboni St 4596,9     ,ABDN,INJ,UNION,1973,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790092,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,9     ,ABDN,DST,UNION,1972,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790093,,,,,,,,,,,,,,,,,
+09790094,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-1   ,ABDN,DST,GEO  ,1971,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790095,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-2   ,ABDN,DST,GEO  ,1971,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790096,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-3   ,ABDN,DST,GEO  ,1972,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790097,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-4   ,ABDN,DST,GEO  ,1972,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790098,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-5   ,ABDN,INJ,GEO  ,1972,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790099,"Geysers Power Company, LLC",DX State 4596   ,4     ,ACTV,DST,CALP ,1970,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790100,"Geysers Power Company, LLC",LF State 4597   ,6     ,IDLE,DST,CALP ,1972,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790101,Union Oil Company of California Geothermal Division                                                 ,LF State 4597   ,11    ,ABDN,DST,UNION,1973,Sonoma              ,097,GEYSR,S,,,17,11N,8W,MD
+09790102,Union Oil Company of California Geothermal Division                                                 ,GDC             ,38I-11,ABDN,DST,UNION,1970,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790103,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,13    ,ABDN,DST,UNION,1980,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790104,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,14    ,ABDN,DST,UNION,1963,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790109,"Geysers Power Company, LLC",LF State 4597   ,3     ,ABDN,INJ,CALP ,1970,Sonoma              ,097,GEYSR,S,,,17,11N,8W,MD
+09790110,Union Oil Company of California Geothermal Division                                                 ,LFH State 4597  ,1     ,ABDN,DST,UNION,1970,Sonoma              ,097,GEYSR,S,,,17,11N,8W,MD
+09790111,GEO Operator Corp.                                                                                  ,Wildhorse       ,1     ,ABDN,DST,GEO  ,1967,Sonoma              ,097,GEYSR,P,,,35,12N,9W,MD
+09790112,Central California Power Agency No. 1                                                               ,Wildhorse       ,2     ,ABDN,DST,CCPA ,1968,Sonoma              ,097,GEYSR,P,,,10,11N,9W,MD
+09790113,,,,,,,,,,,,,,,,,
+09790114,"Geysers Power Company, LLC",LF State 4597   ,18    ,ACTV,DST,CALP ,1973,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790115,"Geysers Power Company, LLC",LF State 4597   ,10    ,ABDN,DST,CALP ,1972,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790116,"Geysers Power Company, LLC",LF State 4597   ,12    ,ACTV,DST,CALP ,1973,Sonoma              ,097,GEYSR,S,,,19,11N,8W,MD
+09790117,Union Oil Company of California Geothermal Division                                                 ,LF State 4597   ,19    ,ABDN,DST,UNION,1973,Sonoma              ,097,GEYSR,S,,,17,11N,8W,MD
+09790118,"Geysers Power Company, LLC",GDC             ,20-29 ,ACTV,DST,CALP ,1973,Sonoma              ,097,GEYSR,P,,,29,11N,8W,MD
+09790119,"Geysers Power Company, LLC",LF State 4597   ,17    ,IDLE,DST,CALP ,1973,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790120,"Geysers Power Company, LLC",DX State 4596   ,12    ,ACTV,DST,CALP ,1975,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790121,"Geysers Power Company, LLC",DX State 4596   ,11    ,ACTV,DST,CALP ,1973,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790122,"Geysers Power Company, LLC",LF State 4597   ,16    ,IDLE,DST,CALP ,1973,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790123,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-6   ,ABDN,INJ,GEO  ,1973,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790124,Union Oil Company of California Geothermal Division                                                 ,Thermal         ,12    ,ABDN,INJ,UNION,1971,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790125,"Geysers Power Company, LLC",LF State 4597   ,13    ,ACTV,DST,CALP ,1973,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790126,"Geysers Power Company, LLC",LF State 4597   ,14    ,ACTV,DST,CALP ,1973,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790127,"Geysers Power Company, LLC",Ottoboni St 4596,3     ,IDLE,INJ,CALP ,1970,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790128,Union Oil Company of California Geothermal Division                                                 ,Geyser Gun Club ,3     ,ABDN,DST,UNION,1974,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790129,Union Oil Company of California Geothermal Division                                                 ,Happy Jack      ,7     ,ABDN,DST,UNION,1968,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790131,"Geysers Power Company, LLC",CA-5634         ,35-12 ,ABDN,DST,CALP ,1966,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790132,"Geysers Power Company, LLC",Thermal         ,4     ,ACTV,DST,CALP ,1957,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790133,Department of Water Resources                                                                       ,Rorabaugh       ,1     ,ABDN,DST,DWR  ,1967,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790134,GEO Operator Corp.                                                                                  ,Rorabaugh       ,3     ,ABDN,DST,GEO  ,1969,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790135,GEO Operator Corp.                                                                                  ,Rorabaugh       ,4     ,ABDN,DST,GEO  ,1969,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790136,"Geysers Power Company, LLC",LF State 4597   ,4     ,ACTV,DST,CALP ,1971,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790137,Union Oil Company of California Geothermal Division                                                 ,Geysers         ,IV    ,ABDN,DST,UNION,1968,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790138,Union Oil Company of California Geothermal Division                                                 ,Geysers         ,V     ,ABDN,DST,UNION,1968,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790139,"Geysers Power Company, LLC",Ottoboni St 4596,12    ,IDLE,INJ,CALP ,1974,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790140,"Geysers Power Company, LLC",DX State 4596   ,13    ,ACTV,DST,CALP ,1974,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790141,,,,,,,,,,,,,,,,,
+09790142,"Thermogenics, Inc.                                                                                  ",Bruno           ,1     ,ABDN,DST,THERM,1974,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790143,"Geysers Power Company, LLC",Ottoboni St 4596,17    ,ACTV,DST,CALP ,1974,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790144,,,,,,,,,,,,,,,,,
+09790145,"Geysers Power Company, LLC",Ottoboni St 4596,13    ,ACTV,DST,CALP ,1974,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790146,"Geysers Power Company, LLC",DX State 4596   ,14    ,ACTV,DST,CALP ,1974,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790147,"Geysers Power Company, LLC",Ottoboni St 4596,14    ,ACTV,DST,CALP ,1974,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790148,"Geysers Power Company, LLC",Rorabaugh       ,2     ,ABDN,DST,CALP ,1979,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790149,GEO Operator Corp.                                                                                  ,Filley          ,1     ,ABDN,DST,GEO  ,1984,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790150,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-8   ,ABDN,DST,GEO  ,1974,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790151,"Geysers Power Company, LLC",Ottoboni St 4596,19    ,ACTV,DST,CALP ,1974,Sonoma              ,097,GEYSR,S,,,7,11N,9W,MD
+09790152,"Geysers Power Company, LLC",Ottoboni St 4596,18    ,ACTV,DST,CALP ,1974,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790153,"Geysers Power Company, LLC",Ottoboni St 4596,15    ,ACTV,DST,CALP ,1974,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790154,"Geysers Power Company, LLC",DX State 4596   ,15    ,ACTV,DST,CALP ,1974,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790155,"Geysers Power Company, LLC",Ottoboni St 4596,16    ,IDLE,INJ,CALP ,1975,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790156,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,18    ,ABDN,DST,UNION,1974,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790157,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-9   ,ABDN,DST,GEO  ,1975,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790158,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-10  ,ABDN,DST,GEO  ,1976,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790161,Union Oil Company of California Geothermal Division                                                 ,Ottoboni St 4596,20    ,ABDN,DST,UNION,1975,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790162,Northern California Power Agency                                                                    ,CA-950          ,86-3  ,ABDN,DST,NCPA ,1975,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790163,"Geysers Power Company, LLC",Ottoboni St 4596,21    ,IDLE,DST,CALP ,1975,Sonoma              ,097,GEYSR,S,,,12,11N,9W,MD
+09790164,GEO Operator Corp.                                                                                  ,Filley          ,2     ,ABDN,DST,GEO  ,1975,Sonoma              ,097,GEYSR,P,,,15,11N,9W,MD
+09790165,GEO Operator Corp.                                                                                  ,Filley          ,3     ,ABDN,DST,GEO  ,1976,Sonoma              ,097,GEYSR,P,,,15,11N,9W,MD
+09790166,,,,,,,,,,,,,,,,,
+09790167,"Geysers Power Company, LLC",Ottoboni St 4596,22    ,IDLE,DST,CALP ,1975,Sonoma              ,097,GEYSR,S,,,12,11N,9W,MD
+09790168,,,,,,,,,,,,,,,,,
+09790169,Union Oil Company of California Geothermal Division                                                 ,CMHC            ,3     ,ABDN,DST,UNION,1977,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790170,"Geysers Power Company, LLC",CMHC            ,4     ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790172,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,22    ,ABDN,DST,UNION,1975,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790174,"Geysers Power Company, LLC",DX State 4596   ,25    ,ACTV,DST,CALP ,1977,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790175,,,,,,,,,,,,,,,,,
+09790176,"Geysers Power Company, LLC",DX State 4596   ,27    ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790177,,,,,,,,,,,,,,,,,
+09790178,"Geysers Power Company, LLC",CMHC            ,5     ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790179,"Geysers Power Company, LLC",Happy Jack      ,10    ,ACTV,DST,CALP ,1975,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790180,"Geysers Power Company, LLC",Happy Jack      ,11    ,ACTV,DST,CALP ,1975,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790181,,,,,,,,,,,,,,,,,
+09790182,Central California Power Agency No. 1                                                               ,Wildhorse       ,5     ,ABDN,INJ,CCPA ,1976,Sonoma              ,097,GEYSR,P,,,36,12N,9W,MD
+09790183,GEO Operator Corp.                                                                                  ,Squaw Creek St  ,1     ,ABDN,EST,GEO  ,1977,Sonoma              ,097,GEYSR,S,,,33,12N,9W,MD
+09790184,,,,,,,,,,,,,,,,,
+09790185,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-11  ,ABDN,DST,GEO  ,1978,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790192,"Geysers Power Company, LLC",DX State 4596   ,22A   ,ACTV,DST,CALP ,1975,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790193,"Geysers Power Company, LLC",LF State 4597   ,20    ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,S,,,19,11N,8W,MD
+09790194,"Geysers Power Company, LLC",Sulphur Bank    ,20    ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790195,"Geysers Power Company, LLC",Sulphur Bank    ,21    ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790196,"Geysers Power Company, LLC",Sulphur Bank    ,22    ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790197,"Geysers Power Company, LLC",Sulphur Bank    ,23    ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790198,"Geysers Power Company, LLC",DX State 4596   ,29    ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790200,"Geysers Power Company, LLC",D & V           ,1     ,ACTV,DST,CALP ,1977,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790201,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,30    ,ABDN,DST,UNION,1977,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790202,"Geysers Power Company, LLC",DX State 4596   ,31    ,ACTV,DST,CALP ,1976,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790203,"Geysers Power Company, LLC",GDC             ,1     ,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,P,,,19,11N,8W,MD
+09790204,Union Oil Company of California Geothermal Division                                                 ,LFH State 4597  ,2     ,ABDN,DST,UNION,1977,Sonoma              ,097,GEYSR,S,,,17,11N,8W,MD
+09790205,"Geysers Power Company, LLC",GDC             ,2     ,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,P,,,19,11N,8W,MD
+09790227,"Geysers Power Company, LLC",GDC             ,5     ,IDLE,INJ,CALP ,1980,Sonoma              ,097,GEYSR,P,,,30,11N,8W,MD
+09790228,"Geysers Power Company, LLC",GDC             ,6     ,ACTV,DST,CALP ,1977,Sonoma              ,097,GEYSR,P,,,30,11N,8W,MD
+09790229,Union Oil Company of California Geothermal Division                                                 ,LF State 4597   ,21    ,ABDN,DST,UNION,1978,Sonoma              ,097,GEYSR,S,,,17,11N,8W,MD
+09790231,"Geysers Power Company, LLC",LF State 4597   ,23    ,IDLE,INJ,CALP ,1979,Sonoma              ,097,GEYSR,S,,,17,11N,8W,MD
+09790232,"Geysers Power Company, LLC",LF State 4597   ,24    ,ACTV,DST,CALP ,1978,Sonoma              ,097,GEYSR,S,,,17,11N,8W,MD
+09790239,"Geysers Power Company, LLC",Ottoboni St 4596,23    ,ACTV,DST,CALP ,1977,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790240,"Geysers Power Company, LLC",Ottoboni St 4596,24    ,ACTV,DST,CALP ,1977,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790241,"Geysers Power Company, LLC",Aidlin          ,1     ,ACTV,DST,CALP ,1977,Sonoma              ,097,GEYSR,P,,,4,11N,9W,MD
+09790242,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,32    ,ABDN,DST,UNION,1977,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790243,Northern California Power Agency                                                                    ,CA-949          ,24-2  ,ACTV,DST,NCPA ,1977,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790244,,,,,,,,,,,,,,,,,
+09790245,Union Oil Company of California Geothermal Division                                                 ,LFH State 4597  ,3     ,ABDN,DST,UNION,1977,Sonoma              ,097,GEYSR,S,,,17,11N,8W,MD
+09790252,Northern California Power Agency                                                                    ,CA-950          ,81A-3 ,ACTV,DST,NCPA ,1976,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790253,Northern California Power Agency                                                                    ,CA-950          ,81-3  ,ACTV,DST,NCPA ,1976,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790255,,,,,,,,,,,,,,,,,
+09790257,"Geysers Power Company, LLC",Aidlin          ,2     ,ABDN,INJ,CALP ,1978,Sonoma              ,097,GEYSR,P,,,32,12N,9W,MD
+09790258,"Geysers Power Company, LLC",DX State 4596   ,33    ,IDLE,DST,CALP ,1980,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790262,"Geysers Power Company, LLC",LF State 4597   ,25    ,ACTV,DST,CALP ,1977,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790263,"Geysers Power Company, LLC",LF State 4597   ,26    ,ACTV,DST,CALP ,1977,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790264,"Geysers Power Company, LLC",LF State 4597   ,27    ,ACTV,DST,CALP ,1978,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790266,"Geysers Power Company, LLC",Sulphur Bank    ,24    ,ACTV,DST,CALP ,1978,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790267,,,,,,,,,,,,,,,,,
+09790268,"Geysers Power Company, LLC",Sulphur Bank    ,26    ,ACTV,DST,CALP ,1978,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790269,"Geysers Power Company, LLC",CA-5634         ,45-12 ,IDLE,DST,CALP ,1979,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790359,"Geysers Power Company, LLC",CMHC            ,6     ,ABDN,INJ,CALP ,1978,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790360,"Geysers Power Company, LLC",CMHC            ,7     ,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790361,,,,,,,,,,,,,,,,,
+09790362,"Geysers Power Company, LLC",GDC             ,9     ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,P,,,29,11N,8W,MD
+09790363,"Geysers Power Company, LLC",GDC             ,10    ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,P,,,29,11N,8W,MD
+09790364,"Geysers Power Company, LLC",GDC             ,11    ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,P,,,29,11N,8W,MD
+09790365,"Geysers Power Company, LLC",DX State 4596   ,38    ,ACTV,DST,CALP ,1978,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790366,"Geysers Power Company, LLC",DX State 4596   ,39    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790368,,,,,,,,,,,,,,,,,
+09790369,"Geysers Power Company, LLC",Ottoboni St 4596,25    ,ACTV,DST,CALP ,1978,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790370,"Geysers Power Company, LLC",DX State 4596   ,40    ,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790371,"Geysers Power Company, LLC",Sulphur Bank    ,27    ,ACTV,DST,CALP ,1978,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790373,"Geysers Power Company, LLC",DX State 4596   ,41    ,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790374,"Geysers Power Company, LLC",LF State 4597   ,29    ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790375,"Geysers Power Company, LLC",LF State 4597   ,28    ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790376,Northern California Power Agency                                                                    ,CA-950          ,33-4  ,ABDN,DST,NCPA ,1978,Sonoma              ,097,GEYSR,F,,,4,10N,8W,MD
+09790377,"Geysers Power Company, LLC",GDC             ,7     ,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,P,,,19,11N,8W,MD
+09790379,Union Oil Company of California Geothermal Division                                                 ,Angeli          ,1     ,ABDN,DST,UNION,1978,Sonoma              ,097,GEYSR,P,,,16,11N,8W,MD
+09790380,"Geysers Power Company, LLC",DX State 4596   ,44    ,IDLE,INJ,CALP ,1979,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790381,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,43    ,ABDN,DST,UNION,1979,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790382,"Geysers Power Company, LLC",DX State 4596   ,42    ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790386,"Geysers Power Company, LLC",Curry           ,1     ,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790387,"Geysers Power Company, LLC",Aidlin          ,3     ,ABDN,INJ,CALP ,1978,Sonoma              ,097,GEYSR,P,,,32,12N,9W,MD
+09790392,Northern California Power Agency                                                                    ,CA-949          ,69-2  ,ABDN,DST,NCPA ,1978,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790394,"Geysers Power Company, LLC",CA-958          ,37-34 ,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,F,,,34,11N,8W,MD
+09790395,"Geysers Power Company, LLC",CA-958          ,37A-34,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,F,,,34,11N,8W,MD
+09790396,"Geysers Power Company, LLC",CA-958          ,56A-34,ACTV,DST,CALP ,1978,Sonoma              ,097,GEYSR,F,,,34,11N,8W,MD
+09790404,Santa Rosa Geothermal Co.                                                                           ,CA-1862         ,37-21 ,ABDN,DST,SRGC ,1976,Sonoma              ,097,GEYSR,F,,,21,11N,8W,MD
+09790422,Union Oil Company of California Geothermal Division                                                 ,Geysers         ,VII   ,ABDN,DST,UNION,1968,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790424,Department of Water Resources                                                                       ,Rorabaugh       ,3     ,ABDN,DST,DWR  ,1979,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790427,"Geysers Power Company, LLC",D & V           ,2     ,IDLE,INJ,CALP ,1980,Sonoma              ,097,GEYSR,P,,,34,11N,8W,MD
+09790428,,,,,,,,,,,,,,,,,
+09790429,"Geysers Power Company, LLC",GDC             ,12    ,ACTV,DST,CALP ,1979,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790433,"Geysers Power Company, LLC",Beigel          ,1     ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,P,,,29,11N,8W,MD
+09790434,"Geysers Power Company, LLC",LF State 4597   ,30    ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790435,"Geysers Power Company, LLC",Tocher          ,1     ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,P,,,27,11N,8W,MD
+09790436,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-12  ,ABDN,DST,GEO  ,1980,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790437,"Geysers Power Company, LLC",DX State 4596   ,23    ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790438,"Geysers Power Company, LLC",DX State 4596   ,45    ,IDLE,INJ,CALP ,1981,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790439,"Geysers Power Company, LLC",DX State 4596   ,46    ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790440,,,,,,,,,,,,,,,,,
+09790445,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-14  ,ABDN,DST,GEO  ,1980,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790446,Northern California Power Agency                                                                    ,CA-950          ,81B-3 ,ACTV,DST,NCPA ,1980,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790447,"Geysers Power Company, LLC",DX State 4596   ,48    ,IDLE,DST,CALP ,1982,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790448,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,49    ,ABDN,DST,UNION,1983,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790449,Union Oil Company of California Geothermal Division                                                 ,Geysers         ,III   ,ABDN,DST,UNION,1924,Sonoma              ,097,GEYSR,P,,,19,11N,8W,MD
+09790450,"Geysers Power Company, LLC",LF State 4597   ,34    ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790451,Northern California Power Agency                                                                    ,CA-950          ,81C-3 ,ACTV,DST,NCPA ,1980,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790452,"Geysers Power Company, LLC",CA-5639         ,86-30 ,CANC,DST,CALP ,,Sonoma              ,097,GEYSR,F,,,30,11N,8W,MD
+09790453,,,,,,,,,,,,,,,,,
+09790454,"Geysers Power Company, LLC",DX State 4596   ,50    ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790455,"Geysers Power Company, LLC",GD Horner State ,2     ,IDLE,INJ,CALP ,1981,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790456,"Geysers Power Company, LLC",CA-5634         ,73-12 ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790457,"Geysers Power Company, LLC",Angeli          ,2     ,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,P,,,20,11N,8W,MD
+09790458,"Geysers Power Company, LLC",CA-5639         ,52-32 ,ABDN,DST,CALP ,1980,Sonoma              ,097,GEYSR,F,,,32,11N,8W,MD
+09790461,Northern California Power Agency                                                                    ,CA-950          ,43A-3 ,ACTV,DST,NCPA ,1980,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790462,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-13  ,ABDN,DST,GEO  ,1981,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790463,Northern California Power Agency                                                                    ,CA-950          ,43B-3 ,ABDN,DST,NCPA ,1981,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790465,"Geysers Power Company, LLC",CA-5634         ,73A-12,ACTV,DST,CALP ,1980,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790466,,,,,,,,,,,,,,,,,
+09790468,Department of Water Resources                                                                       ,Rorabaugh       ,6     ,ABDN,DST,DWR  ,1984,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790477,GEO Operator Corp.                                                                                  ,Prati           ,1     ,ABDN,DST,GEO  ,1981,Sonoma              ,097,GEYSR,P,,,36,12N,9W,MD
+09790478,"Geysers Power Company, LLC",CA-958          ,56B-34,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,F,,,34,11N,8W,MD
+09790479,Northern California Power Agency                                                                    ,CA-950          ,43C-3 ,ACTV,DST,NCPA ,1980,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790480,"Geysers Power Company, LLC",Modini          ,1     ,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,P,,,27,11N,8W,MD
+09790481,"Geysers Power Company, LLC",Modini          ,2     ,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,P,,,27,11N,8W,MD
+09790482,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,57    ,ABDN,DST,UNION,1981,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790483,Northern California Power Agency                                                                    ,CA-949          ,24B-2 ,ACTV,DST,NCPA ,1981,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790484,"Western GeoPower, Inc.",Rorabaugh       ,A-17  ,SUSP,DST,WGPC ,1981,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790485,"Geysers Power Company, LLC",Sulphur Bank    ,29    ,IDLE,INJ,CALP ,1981,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790486,Central California Power Agency No. 1                                                               ,Prati State     ,1     ,ABDN,DST,CCPA ,1981,Sonoma              ,097,GEYSR,S,,,36,12N,9W,MD
+09790487,,,,,,,,,,,,,,,,,
+09790488,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,55    ,ABDN,DST,UNION,1981,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790489,Northern California Power Agency                                                                    ,CA-949          ,24C-2 ,ACTV,DST,NCPA ,1981,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790490,"Geysers Power Company, LLC",DX State 4596   ,58    ,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790491,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-19  ,ABDN,DST,GEO  ,1981,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790492,Northern California Power Agency                                                                    ,CA-949          ,13-2  ,ACTV,DST,NCPA ,1981,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790493,"Geysers Power Company, LLC",DX State 4596   ,56    ,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790494,"Geysers Power Company, LLC",DX State 4596   ,59    ,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790507,,,,,,,,,,,,,,,,,
+09790508,"Geysers Power Company, LLC",LF State 4597   ,31    ,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,S,,,19,11N,8W,MD
+09790510,Northern California Power Agency                                                                    ,CA-949          ,13A-2 ,ACTV,DST,NCPA ,1981,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790511,"Geysers Power Company, LLC",DX State 4596   ,60    ,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790512,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-18  ,ABDN,DST,GEO  ,1981,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790513,,,,,,,,,,,,,,,,,
+09790514,"Geysers Power Company, LLC",Prati           ,2     ,ABDN,INJ,CALP ,1981,Sonoma              ,097,GEYSR,P,,,36,12N,9W,MD
+09790515,"Geysers Power Company, LLC",Geyser Gun Club ,5     ,IDLE,DST,CALP ,1982,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790516,"Geysers Power Company, LLC",DX State 4596   ,69    ,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790517,"Geysers Power Company, LLC",CA-5639         ,14-27 ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,27,11N,8W,MD
+09790518,"Geysers Power Company, LLC",CA-5635         ,123-19,ACTV,DST,CALP ,1981,Sonoma              ,097,GEYSR,F,,,19,11N,8W,MD
+09790519,"Geysers Power Company, LLC",Prati           ,8     ,ABDN,INJ,CALP ,1981,Sonoma              ,097,GEYSR,P,,,35,12N,9W,MD
+09790521,"Geysers Power Company, LLC",CA-1862         ,62-29 ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,29,11N,8W,MD
+09790522,"Geysers Power Company, LLC",DX State 4596   ,63    ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,S,,,8,11N,8W,MD
+09790524,Central California Power Agency No. 1                                                               ,Prati           ,7     ,ABDN,DST,CCPA ,1982,Sonoma              ,097,GEYSR,P,,,34,12N,9W,MD
+09790525,"Geysers Power Company, LLC",D & V           ,11    ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790526,,,,,,,,,,,,,,,,,
+09790527,"Geysers Power Company, LLC",D & V           ,13    ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790528,"Geysers Power Company, LLC",DX State 4596   ,64    ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,S,,,8,11N,8W,MD
+09790529,"Geysers Power Company, LLC",D & V           ,12    ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790530,GEO Operator Corp.                                                                                  ,Abril           ,1-1   ,ABDN,DST,GEO  ,1982,Sonoma              ,097,GEYSR,P,,,15,11N,9W,MD
+09790531,"Geysers Power Company, LLC",Modini          ,4     ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,P,,,27,11N,8W,MD
+09790532,"Geysers Power Company, LLC",Modini          ,3     ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,P,,,27,11N,8W,MD
+09790534,"Geysers Power Company, LLC",GDC             ,53A-13,IDLE,INJ,CALP ,1982,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790535,,,,,,,,,,,,,,,,,
+09790536,"Geysers Power Company, LLC",CA-1862         ,37A-21,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,21,11N,8W,MD
+09790537,"Geysers Power Company, LLC",CA-1862         ,62A-29,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,29,11N,8W,MD
+09790539,"Geysers Power Company, LLC",DX State 4596   ,72    ,IDLE,INJ,CALP ,1982,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790540,,,,,,,,,,,,,,,,,
+09790541,"Geysers Power Company, LLC",CA-1862         ,37B-21,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,21,11N,8W,MD
+09790542,GEO Operator Corp.                                                                                  ,Abril           ,1-2   ,ABDN,DST,GEO  ,1982,Sonoma              ,097,GEYSR,P,,,15,11N,9W,MD
+09790543,"Geysers Power Company, LLC",CA-1862         ,62B-29,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,29,11N,8W,MD
+09790544,,,,,,,,,,,,,,,,,
+09790545,"Geysers Power Company, LLC",D & V           ,5     ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790546,"Geysers Power Company, LLC",CA-5634         ,32-12 ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790547,Northern California Power Agency                                                                    ,CA-950          ,86A-3 ,ACTV,DST,NCPA ,1982,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790548,"Geysers Power Company, LLC",CA-5639         ,53-33 ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,33,11N,8W,MD
+09790549,"Geysers Power Company, LLC",GDC             ,20    ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,P,,,19,11N,8W,MD
+09790553,"Geysers Power Company, LLC",CA-1862         ,21A-28,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790554,"Geysers Power Company, LLC",CA-5634         ,32A-12,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790555,,,,,,,,,,,,,,,,,
+09790556,"Geysers Power Company, LLC",D & V           ,15    ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790558,"Geysers Power Company, LLC",CA-1862         ,15-21 ,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,21,11N,8W,MD
+09790559,"Geysers Power Company, LLC",CA-5634         ,32B-12,ACTV,DST,CALP ,1982,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790560,"Geysers Power Company, LLC",D & V           ,16    ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790561,"Geysers Power Company, LLC",CA-5635         ,94A-19,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,F,,,19,11N,8W,MD
+09790562,"Geysers Power Company, LLC",LF State 4597   ,35    ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790563,"Geysers Power Company, LLC",DX State 4596   ,61    ,ABDN,INJ,CALP ,1983,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790564,,,,,,,,,,,,,,,,,
+09790565,,,,,,,,,,,,,,,,,
+09790566,"Geysers Power Company, LLC",LF State 4597   ,36    ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790579,"Geysers Power Company, LLC",Sulphur Bank    ,30    ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790580,"Geysers Power Company, LLC",Geyser Gun Club ,6     ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790584,"Geysers Power Company, LLC",CA-1862         ,21B-28,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790588,"Geysers Power Company, LLC",CA-5635         ,94B-19,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,F,,,19,11N,8W,MD
+09790589,"Geysers Power Company, LLC",CA-5634         ,21-12 ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790590,"Geysers Power Company, LLC",CA-5639         ,63-29 ,ABDN,DST,CALP ,1984,Sonoma              ,097,GEYSR,F,,,29,11N,8W,MD
+09790591,"Geysers Power Company, LLC",DX State 4596   ,67    ,IDLE,DST,CALP ,1984,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790592,"Geysers Power Company, LLC",CA-5639         ,42-33 ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,F,,,33,11N,8W,MD
+09790593,"Geysers Power Company, LLC",CA-5639         ,63A-29,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,F,,,29,11N,8W,MD
+09790594,"Geysers Power Company, LLC",CA-5634         ,21A-12,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790595,"Geysers Power Company, LLC",Happy Bob State ,1     ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,S,,,2,11N,9W,MD
+09790596,"Geysers Power Company, LLC",CA-5639         ,42A-33,ABDN,DST,CALP ,1984,Sonoma              ,097,GEYSR,F,,,33,11N,8W,MD
+09790597,"CPN Wild Horse Geothermal, LLC",Prati State     ,10    ,ACTV,DST,WHG  ,2009,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790598,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-22  ,ABDN,DST,GEO  ,1984,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790599,"CPN Wild Horse Geothermal, LLC",Prati State     ,31    ,ACTV,DST,WHG  ,1984,Sonoma              ,097,GEYSR,S,,,35,12N,9W,MD
+09790600,"Geysers Power Company, LLC",Thermal         ,15    ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790601,"Geysers Power Company, LLC",DX State 4596   ,74    ,ACTV,DST,CALP ,1983,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790602,,,,,,,,,,,,,,,,,
+09790603,"Geysers Power Company, LLC",DX State 4596   ,75    ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790605,Central California Power Agency No. 1                                                               ,Prati           ,30    ,ABDN,DST,CCPA ,1984,Sonoma              ,097,GEYSR,P,,,34,12N,9W,MD
+09790607,"Geysers Power Company, LLC",GDC             ,21    ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,P,,,28,11N,8W,MD
+09790608,,,,,,,,,,,,,,,,,
+09790609,"Geysers Power Company, LLC",Aidlin          ,5     ,ABDN,INJ,CALP ,1988,Sonoma              ,097,GEYSR,P,,,4,11N,9W,MD
+09790610,,,,,,,,,,,,,,,,,
+09790611,,,,,,,,,,,,,,,,,
+09790612,"Geysers Power Company, LLC",GDC             ,26    ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790613,"Geysers Power Company, LLC",GDC             ,23    ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,P,,,28,11N,8W,MD
+09790614,"Geysers Power Company, LLC",DX State 4596   ,68    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790615,"Geysers Power Company, LLC",Beigel          ,2     ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,P,,,29,11N,8W,MD
+09790618,Central California Power Agency No. 1                                                               ,Prati           ,39    ,ABDN,DST,CCPA ,1984,Sonoma              ,097,GEYSR,P,,,35,12N,9W,MD
+09790619,,,,,,,,,,,,,,,,,
+09790620,,,,,,,,,,,,,,,,,
+09790621,"Geysers Power Company, LLC",CA-5639         ,44-28 ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790622,"Geysers Power Company, LLC",CA-5639         ,44B-28,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790623,,,,,,,,,,,,,,,,,
+09790624,,,,,,,,,,,,,,,,,
+09790625,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-25  ,ABDN,DST,GEO  ,1985,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790629,Union Oil Company of California Geothermal Division                                                 ,Beigel          ,3     ,ABDN,DST,UNION,1984,Sonoma              ,097,GEYSR,P,,,29,11N,8W,MD
+09790630,,,,,,,,,,,,,,,,,
+09790631,"Geysers Power Company, LLC",CA-5639         ,44A-28,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790632,Northern California Power Agency                                                                    ,CA-949          ,13C-2 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790633,Northern California Power Agency                                                                    ,CA-949          ,13D-2 ,ACTV,DST,NCPA ,1984,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790634,"Geysers Power Company, LLC",GDC             ,24    ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,P,,,20,11N,8W,MD
+09790635,"Geysers Power Company, LLC",GDC             ,29    ,ACTV,DST,CALP ,1984,Sonoma              ,097,GEYSR,P,,,28,11N,8W,MD
+09790636,"Geysers Power Company, LLC",CA-5639         ,85-28 ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790637,"Geysers Power Company, LLC",Sulphur Bank    ,28    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790638,"Geysers Power Company, LLC",GDC             ,25    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,P,,,20,11N,8W,MD
+09790639,"Geysers Power Company, LLC",Angeli          ,3     ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,P,,,20,11N,8W,MD
+09790640,"Geysers Power Company, LLC",DX State 4596   ,73    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790641,"Geysers Power Company, LLC",CA-5639         ,85A-28,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790642,"Geysers Power Company, LLC",CA-5634         ,32C-12,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790643,"Geysers Power Company, LLC",DX State 4596   ,62    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790644,"Geysers Power Company, LLC",Curry           ,3     ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790645,"Geysers Power Company, LLC",LF State 4597   ,37    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790646,"Geysers Power Company, LLC",CA-5634         ,21B-12,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790647,"Geysers Power Company, LLC",CA-5634         ,32D-12,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790650,"Geysers Power Company, LLC",CA-5634         ,21C-12,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790651,"Geysers Power Company, LLC",CA-5634         ,21D-12,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790653,"Geysers Power Company, LLC",Ottoboni St 4596,27    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790654,Union Oil Company of California Geothermal Division                                                 ,Ottoboni St 4596,28    ,ABDN,DST,UNION,1985,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790655,Santa Rosa Geothermal Co.                                                                           ,CA-1862         ,21C-28,ABDN,INJ,SRGC ,1985,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790660,"Geysers Power Company, LLC",CA-5634         ,45B-12,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,12,11N,9W,MD
+09790661,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,71    ,ABDN,INJ,UNION,1985,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790662,"Geysers Power Company, LLC",Geyser Gun Club ,8     ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790664,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-27  ,ABDN,DST,GEO  ,1985,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790665,"Geysers Power Company, LLC",Ottoboni St 4596,29    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790666,"Geysers Power Company, LLC",CA-5634         ,52-11 ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,11,11N,9W,MD
+09790667,"Geysers Power Company, LLC",DX State 4596   ,80    ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790669,"Geysers Power Company, LLC",DX State 4596   ,81    ,IDLE,DST,CALP ,1986,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790670,"Geysers Power Company, LLC",DX State 4596   ,82    ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,S,,,6,11N,8W,MD
+09790671,"Geysers Power Company, LLC",D & V           ,6     ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790672,"Geysers Power Company, LLC",LF State 4597   ,38    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790673,"Geysers Power Company, LLC",CA-5635         ,117-19,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,19,11N,8W,MD
+09790674,,,,,,,,,,,,,,,,,
+09790677,"Geysers Power Company, LLC",LF State 4597   ,41    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790678,"CPN Wild Horse Geothermal, LLC",Prati           ,4     ,ACTV,DST,WHG  ,1985,Sonoma              ,097,GEYSR,P,,,36,12N,9W,MD
+09790679,"Geysers Power Company, LLC",LF State 4597   ,42    ,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790680,"Geysers Power Company, LLC",LF State 4597   ,39    ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790682,Central California Power Agency No. 1                                                               ,Prati           ,37    ,ABDN,DST,CCPA ,1986,Sonoma              ,097,GEYSR,P,,,35,12N,9W,MD
+09790683,Northern California Power Agency                                                                    ,CA-949          ,13E-2 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790684,"CPN Wild Horse Geothermal, LLC",Prati           ,5     ,ACTV,DST,WHG  ,1986,Sonoma              ,097,GEYSR,P,,,35,12N,9W,MD
+09790685,Northern California Power Agency                                                                    ,CA-950          ,81E-3 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790686,Northern California Power Agency                                                                    ,CA-950          ,43F-3 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790687,"CPN Wild Horse Geothermal, LLC",Prati           ,38    ,IDLE,DST,WHG  ,1986,Sonoma              ,097,GEYSR,P,,,35,12N,9W,MD
+09790688,Northern California Power Agency                                                                    ,CA-949          ,13B-2 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790689,Northern California Power Agency                                                                    ,CA-950          ,43G-3 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790690,Northern California Power Agency                                                                    ,CA-950          ,81F-3 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790691,"Geysers Power Company, LLC",D & V           ,9     ,CANC,DST,CALP ,,Sonoma              ,097,GEYSR,P,,,33,11N,8W,MD
+09790692,"Geysers Power Company, LLC",DX State 4596   ,76    ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790693,Northern California Power Agency                                                                    ,CA-950          ,43H-3 ,CANC,DST,NCPA ,,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790694,"Geysers Power Company, LLC",CA-5639         ,15-28 ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790695,"CPN Wild Horse Geothermal, LLC",Prati           ,25    ,ACTV,DST,WHG  ,1986,Sonoma              ,097,GEYSR,P,,,35,12N,9W,MD
+09790696,Northern California Power Agency                                                                    ,CA-949          ,47-2  ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790697,Northern California Power Agency                                                                    ,CA-949          ,47A-2 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790698,"Geysers Power Company, LLC",CA-5639         ,15A-28,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790699,"Geysers Power Company, LLC",DX State 4596   ,77    ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790701,"Geysers Power Company, LLC",DX State 4596   ,85    ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,S,,,7,11N,8W,MD
+09790702,"Geysers Power Company, LLC",LF State 4597   ,48    ,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790704,"Geysers Power Company, LLC",GDC             ,30    ,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,P,,,20,11N,8W,MD
+09790706,Northern California Power Agency                                                                    ,CA-950          ,81G-3 ,ACTV,DST,NCPA ,1987,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790707,Northern California Power Agency                                                                    ,CA-949          ,47B-2 ,ACTV,DST,NCPA ,1987,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790708,GEO Operator Corp.                                                                                  ,Rorabaugh       ,A-31  ,ABDN,DST,GEO  ,,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790709,Union Oil Company of California Geothermal Division                                                 ,DX State 4596   ,84    ,ABDN,DST,UNION,1987,Sonoma              ,097,GEYSR,S,,,18,11N,8W,MD
+09790710,,,,,,,,,,,,,,,,,
+09790712,"Geysers Power Company, LLC",CA-958          ,37B-34,ACTV,DST,CALP ,1986,Sonoma              ,097,GEYSR,F,,,34,11N,8W,MD
+09790713,"Geysers Power Company, LLC",Sulphur Bank    ,31    ,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790714,"CPN Wild Horse Geothermal, LLC",Prati State     ,24    ,IDLE,DST,WHG  ,1987,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790715,"Geysers Power Company, LLC",CA-5639         ,15B-28,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790716,"Geysers Power Company, LLC",CA-1862         ,62D-29,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,F,,,29,11N,8W,MD
+09790717,Northern California Power Agency                                                                    ,CA-950          ,81H-3 ,ACTV,DST,NCPA ,1987,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790718,,,,,,,,,,,,,,,,,
+09790719,"Geysers Power Company, LLC",CA-5639         ,15C-28,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790720,"CPN Wild Horse Geothermal, LLC",Prati State     ,12    ,ACTV,DST,WHG  ,1987,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790721,Central California Power Agency No. 1                                                               ,Prati           ,50    ,ABDN,DST,CCPA ,1987,Sonoma              ,097,GEYSR,P,,,36,12N,9W,MD
+09790722,,,,,,,,,,,,,,,,,
+09790723,"Geysers Power Company, LLC",LF State 4597   ,49    ,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790724,Northern California Power Agency                                                                    ,CA-950          ,21-3  ,ACTV,DST,NCPA ,1987,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790725,"CPN Wild Horse Geothermal, LLC",Prati State     ,54    ,IDLE,INJ,WHG  ,1987,Sonoma              ,097,GEYSR,S,,,1,11N,9W,MD
+09790726,Northern California Power Agency                                                                    ,CA-950          ,43D-3 ,ACTV,DST,NCPA ,1985,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790727,Northern California Power Agency                                                                    ,CA-950          ,43E-3 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790728,Northern California Power Agency                                                                    ,CA-950          ,81D-3 ,ACTV,DST,NCPA ,1986,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790729,"Geysers Power Company, LLC",CA-5639         ,15D-28,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790730,,,,,,,,,,,,,,,,,
+09790731,Union Oil Company of California Geothermal Division                                                 ,71              ,1     ,ABDN,TG ,UNION,1971,Sonoma              ,097,GEYSR,P,,,7,11N,8W,MD
+09790732,Union Oil Company of California Geothermal Division                                                 ,71              ,2     ,ABDN,TG ,UNION,1971,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790733,Union Oil Company of California Geothermal Division                                                 ,71              ,3     ,ABDN,TG ,UNION,1971,Sonoma              ,097,GEYSR,P,,,17,11N,8W,MD
+09790734,Union Oil Company of California Geothermal Division                                                 ,71              ,4     ,ABDN,TG ,UNION,1971,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790735,Union Oil Company of California Geothermal Division                                                 ,71              ,6     ,ABDN,TG ,UNION,1971,Sonoma              ,097,GEYSR,P,,,19,11N,8W,MD
+09790736,GEO Operator Corp.                                                                                  ,TG              ,14    ,ABDN,TG ,GEO  ,1976,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790744,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-2  ,ABDN,TG ,UNION,1972,Sonoma              ,097,GEYSR,P,,,2,11N,9W,MD
+09790745,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-3  ,ABDN,TG ,UNION,1972,Sonoma              ,097,GEYSR,P,,,17,11N,8W,MD
+09790746,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-10 ,ABDN,TG ,UNION,1972,Sonoma              ,097,GEYSR,P,,,20,11N,8W,MD
+09790747,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-11 ,ABDN,TG ,UNION,1972,Sonoma              ,097,GEYSR,P,,,20,11N,8W,MD
+09790749,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-18 ,ABDN,TG ,UNION,1972,Sonoma              ,097,GEYSR,P,,,29,11N,8W,MD
+09790750,Union Oil Company of California Geothermal Division                                                 ,BG              ,72-21 ,ABDN,TG ,UNION,1972,Sonoma              ,097,GEYSR,P,,,20,11N,8W,MD
+09790751,Union Oil Company of California Geothermal Division                                                 ,BG              ,73-27 ,ABDN,TG ,UNION,1972,Sonoma              ,097,GEYSR,P,,,3,10N,8W,MD
+09790752,"Geysers Power Company, LLC",CA-5639         ,14A-27,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,F,,,27,11N,8W,MD
+09790757,Union Oil Company of California Geothermal Division                                                 ,71              ,15    ,ABDN,TG ,UNION,1971,Sonoma              ,097,GEYSR,P,,,7,11N,8W,MD
+09790759,Northern California Power Agency                                                                    ,CA-950          ,21A-3 ,ACTV,DST,NCPA ,1987,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790760,"Geysers Power Company, LLC",D & V           ,23    ,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,P,,,34,11N,8W,MD
+09790761,"CPN Wild Horse Geothermal, LLC",Prati           ,14    ,ACTV,DST,WHG  ,1987,Sonoma              ,097,GEYSR,P,,,36,12N,9W,MD
+09790762,Northern California Power Agency                                                                    ,CA-950          ,21B-3 ,ACTV,DST,NCPA ,1987,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790763,,,,,,,,,,,,,,,,,
+09790767,"Geysers Power Company, LLC",G               ,5     ,ACTV,TG ,CALP ,1988,Sonoma              ,097,GEYSR,F,,,19,11N,8W,MD
+09790769,"Geysers Power Company, LLC",G               ,12    ,ABDN,TG ,CALP ,1987,Sonoma              ,097,GEYSR,P,,,11,11N,9W,MD
+09790770,"Geysers Power Company, LLC",G               ,13    ,ABDN,TG ,CALP ,1988,Sonoma              ,097,GEYSR,P,,,18,11N,8W,MD
+09790772,"Geysers Power Company, LLC",CA-1862         ,62E-29,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,F,,,29,11N,8W,MD
+09790773,"Geysers Power Company, LLC",D & V           ,24    ,ACTV,DST,CALP ,1987,Sonoma              ,097,GEYSR,P,,,34,11N,8W,MD
+09790774,"Geysers Power Company, LLC",D & V           ,25    ,ACTV,DST,CALP ,1988,Sonoma              ,097,GEYSR,P,,,34,11N,8W,MD
+09790777,"Geysers Power Company, LLC",G               ,20    ,ABDN,TG ,CALP ,1988,Sonoma              ,097,GEYSR,P,,,1,11N,9W,MD
+09790780,"Geysers Power Company, LLC",G               ,23    ,ABDN,TG ,CALP ,1987,Sonoma              ,097,GEYSR,P,,,13,11N,9W,MD
+09790781,"Geysers Power Company, LLC",G               ,24    ,ABDN,TG ,CALP ,1987,Sonoma              ,097,GEYSR,P,,,12,11N,9W,MD
+09790783,"Geysers Power Company, LLC",G               ,26    ,ABDN,TG ,CALP ,1987,Sonoma              ,097,GEYSR,P,,,34,11N,8W,MD
+09790784,"Geysers Power Company, LLC",CA-5634         ,51-11 ,ACTV,DST,CALP ,1988,Sonoma              ,097,GEYSR,F,,,11,11N,9W,MD
+09790785,"Geysers Power Company, LLC",CA-1862         ,15B-21,ACTV,DST,CALP ,1988,Sonoma              ,097,GEYSR,F,,,21,11N,8W,MD
+09790786,Northern California Power Agency                                                                    ,CA-950          ,21D-3 ,ACTV,DST,NCPA ,1988,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790787,"Geysers Power Company, LLC",LF State 4597   ,40    ,ACTV,DST,CALP ,1988,Sonoma              ,097,GEYSR,S,,,20,11N,8W,MD
+09790788,,,,,,,,,,,,,,,,,
+09790789,"Geysers Power Company, LLC",G               ,29    ,ABDN,TG ,CALP ,1988,Sonoma              ,097,GEYSR,P,,,17,11N,8W,MD
+09790790,"Geysers Power Company, LLC",CA-5634         ,52B-11,ACTV,DST,CALP ,1988,Sonoma              ,097,GEYSR,F,,,11,11N,9W,MD
+09790792,"Geysers Power Company, LLC",CA-5639         ,88-28 ,CANC,DST,CALP ,,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790793,"Geysers Power Company, LLC",Angeli          ,4     ,ACTV,DST,CALP ,1988,Sonoma              ,097,GEYSR,P,,,20,11N,8W,MD
+09790794,"Geysers Power Company, LLC",CA-1862         ,15C-21,ACTV,DST,CALP ,1989,Sonoma              ,097,GEYSR,F,,,21,11N,8W,MD
+09790795,"Geysers Power Company, LLC",Aidlin          ,6     ,ACTV,DST,CALP ,1989,Sonoma              ,097,GEYSR,P,,,4,11N,9W,MD
+09790796,"Geysers Power Company, LLC",Aidlin          ,8     ,ABDN,INJ,CALP ,1988,Sonoma              ,097,GEYSR,P,,,32,12N,9W,MD
+09790797,Northern California Power Agency                                                                    ,CA-949          ,24D-2 ,ACTV,DST,NCPA ,1988,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790800,Northern California Power Agency                                                                    ,CA-949          ,24E-2 ,ACTV,DST,NCPA ,1989,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790801,"Geysers Power Company, LLC",CA-5634         ,48-2  ,ACTV,DST,CALP ,1989,Sonoma              ,097,GEYSR,F,,,2,11N,9W,MD
+09790802,Northern California Power Agency                                                                    ,CA-949          ,24F-2 ,ACTV,DST,NCPA ,1989,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790803,"Geysers Power Company, LLC",CA-5633         ,48A-2 ,ACTV,DST,CALP ,1989,Sonoma              ,097,GEYSR,F,,,2,11N,9W,MD
+09790804,"Geysers Power Company, LLC",Aidlin          ,4     ,ACTV,DST,CALP ,1994,Sonoma              ,097,GEYSR,P,,,32,12N,9W,MD
+09790805,"Geysers Power Company, LLC",Abril           ,2     ,ACTV,DST,CALP ,1989,Sonoma              ,097,GEYSR,P,,,2,11N,9W,MD
+09790807,"Geysers Power Company, LLC",CA-5633         ,27A-2 ,ABDN,INJ,CALP ,1989,Sonoma              ,097,GEYSR,F,,,2,11N,9W,MD
+09790808,Northern California Power Agency                                                                    ,CA-949          ,24G-2 ,ACTV,DST,NCPA ,1989,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790811,"Geysers Power Company, LLC",CA-1862         ,71-28 ,ACTV,DST,CALP ,1989,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790812,"Geysers Power Company, LLC",CA-956A         ,56C-34,ACTV,DST,CALP ,1985,Sonoma              ,097,GEYSR,F,,,34,11N,8W,MD
+09790813,Northern California Power Agency                                                                    ,CA-949          ,69A-2 ,ACTV,DST,NCPA ,1990,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790814,Northern California Power Agency                                                                    ,CA-949          ,69B-2 ,ACTV,DST,NCPA ,1990,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790815,"Geysers Power Company, LLC",CA-1862         ,71A-28,ACTV,DST,CALP ,1990,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790816,Northern California Power Agency                                                                    ,CA-949          ,69C-2 ,ACTV,DST,NCPA ,1990,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790817,"Geysers Power Company, LLC",Aidlin          ,7     ,ACTV,DST,CALP ,1990,Sonoma              ,097,GEYSR,P,,,4,11N,9W,MD
+09790818,Northern California Power Agency                                                                    ,CA-949          ,69D-2 ,ACTV,DST,NCPA ,1991,Sonoma              ,097,GEYSR,F,,,2,10N,8W,MD
+09790819,,,,,,,,,,,,,,,,,
+09790821,"Geysers Power Company, LLC",CA-1862         ,37C-21,ACTV,DST,CALP ,1991,Sonoma              ,097,GEYSR,F,,,21,11N,8W,MD
+09790822,Northern California Power Agency                                                                    ,CA-950          ,86C-3 ,ACTV,DST,NCPA ,1991,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790823,Northern California Power Agency                                                                    ,CA-950          ,86D-3 ,ACTV,DST,NCPA ,1991,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790824,Northern California Power Agency                                                                    ,CA-950          ,86E-3 ,ACTV,DST,NCPA ,1992,Sonoma              ,097,GEYSR,F,,,3,10N,8W,MD
+09790825,"Geysers Power Company, LLC",Aidlin          ,9     ,ACTV,DST,CALP ,1992,Sonoma              ,097,GEYSR,P,,,4,11N,9W,MD
+09790826,"Geysers Power Company, LLC",CA-1862         ,21D-28,ACTV,DST,CALP ,1993,Sonoma              ,097,GEYSR,F,,,28,11N,8W,MD
+09790827,"Geysers Power Company, LLC",Aidlin          ,10    ,ACTV,DST,CALP ,1995,Sonoma              ,097,GEYSR,P,,,4,11N,9W,MD
+09790828,,,,,,,,,,,,,,,,,
+09790829,"Geysers Power Company, LLC",GDC             ,31    ,ACTV,DST,CALP ,2004,Sonoma              ,097,GEYSR,P,,,19,11N,8W,MD
+09790830,,,,,,,,,,,,,,,,,
+09790831,"Geysers Power Company, LLC",Prati State     ,35    ,CANC,DST,CALP ,,Sonoma              ,097,GEYSR,S,,,34,12N,9W,MD
+09790832,,,,,,,,,,,,,,,,,
+09790833,"Geysers Power Company, LLC",Wildhorse State ,73    ,CANC,DST,CALP ,,Sonoma              ,097,GEYSR,S,,,2,11N,9W,MD
+09790834,"Western GeoPower, Inc.",WGP             ,1     ,IDLE,EST,WGPC ,2008,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790835,"Western GeoPower, Inc.",WGP             ,2     ,IDLE,DST,WGPC ,2008,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790836,"Western GeoPower, Inc.",WGP             ,3     ,IDLE,EST,WGPC ,2008,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790837,"Western GeoPower, Inc.",WGP             ,4     ,IDLE,EST,WGPC ,2008,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790838,"Western GeoPower, Inc.",WGP             ,5     ,CANC,EST,WGPC ,,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790839,"Western GeoPower, Inc.",WGP             ,6     ,CANC,EST,WGPC ,,Sonoma              ,097,GEYSR,P,,,14,11N,9W,MD
+09790840,,,,,,,,,,,,,,,,,
+09790841,,,,,,,,,,,,,,,,,
+09790842,,,,,,,,,,,,,,,,,
+09790843,"CPN Wild Horse Geothermal, LLC",Wildhorse State ,36    ,IDLE,INJ,WHG  ,2010,Sonoma              ,097,GEYSR,S,,,3,11N,9W,MD
+09790844,"Geysers Power Company, LLC",Prati State     ,70    ,CANC,DST,CALP ,,Sonoma              ,097,GEYSR,S,,,35,12N,9W,MD
+09790845,,,,,,,,,,,,,,,,,
+09790846,,,,,,,,,,,,,,,,,
+09790847,,,,,,,,,,,,,,,,,
+09790848,,,,,,,,,,,,,,,,,
+09790849,,,,,,,,,,,,,,,,,
+09790850,,,,,,,,,,,,,,,,,
+09790851,,,,,,,,,,,,,,,,,
+09790852,,,,,,,,,,,,,,,,,
+09790853,,,,,,,,,,,,,,,,,
+09790854,,,,,,,,,,,,,,,,,
+09790867,,,,,,,,,,,,,,,,,
+09790868,"Geysers Power Company, LLC",CA-956A         ,77-34 ,ABDN,INJ,CALP ,2015,Sonoma              ,097,GEYSR,F,,,34,11N,8W,MD
+09790869,,,,,,,,,,,,,,,,,
+09790874,,,,,,,,,,,,,,,,,
+09790875,,,,,,,,,,,,,,,,,
